@@ -1,6 +1,6 @@
-# PubNub Arduino Yun
+# PubNub Arduino Yún
 
-This is the code that powers the PubNub IOT House. It also serves as an example of using the PubNub REST Client over the Arduino Yun's bridge.
+This is the code that powers the PubNub IOT House. It also serves as an example of using the PubNub REST Client over the Arduino Yún's bridge.
 
 ![](http://i.imgur.com/y8TEcAD.gif)
 
